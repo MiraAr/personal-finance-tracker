@@ -1,0 +1,100 @@
+{
+    "transactions": [
+        {
+            "type": "expense",
+            "category": "food",
+            "description": "food",
+            "date": "24/04/2025",
+            "amount": "2000",
+            "id": 1
+        },
+        {
+            "type": "expense",
+            "category": "education",
+            "description": "fees",
+            "date": "17/04/2025",
+            "amount": "10",
+            "id": 2
+        },
+        {
+            "type": "expense",
+            "category": "education",
+            "description": "english course tuitions",
+            "date": "16/04/2025",
+            "amount": "500",
+            "id": 3
+        },
+        {
+            "type": "expense",
+            "category": "bills",
+            "description": "Feb gaz and water",
+            "date": "10/02/2025",
+            "amount": "100",
+            "id": 4
+        },
+        {
+            "type": "income",
+            "category": "sideHustle",
+            "description": "car selling commision",
+            "date": "10/02/2025",
+            "amount": "1000",
+            "id": 5
+        },
+        {
+            "type": "expense",
+            "category": "transportation",
+            "description": "car fuel and parking fees ",
+            "date": "08/02/2025",
+            "amount": "500",
+            "id": 6
+        },
+        {
+            "type": "expense",
+            "category": "food",
+            "description": "dinner at big chefs for two",
+            "date": "01/02/2025",
+            "amount": "1000",
+            "id": 7
+        },
+        {
+            "type": "income",
+            "category": "bounus",
+            "description": "2024 bounus",
+            "date": "10/01/2025",
+            "amount": "1000",
+            "id": 8
+        },
+        {
+            "type": "income",
+            "category": "salary",
+            "description": "feb salary",
+            "date": "01/02/2025",
+            "amount": "1000",
+            "id": 9
+        },
+        {
+            "id": 10,
+            "type": "income",
+            "category": "salary",
+            "description": "April salary",
+            "date": "18/04/2025",
+            "amount": 4000
+        },
+        {
+            "id": 11,
+            "type": "expense",
+            "category": "food",
+            "description": "lunch at Big chefs",
+            "date": "15/02/2025",
+            "amount": 500
+        },
+        {
+            "id": 12,
+            "type": "expense",
+            "category": "shopping",
+            "description": "grocery shopping",
+            "date": "15/02/2025",
+            "amount": 1000
+        }
+    ]
+}
